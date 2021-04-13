@@ -17,6 +17,7 @@
         <module>00-spring-restful</module>
         <module>01-consuming-restful</module>
         <module>02-scheduling-tasks</module>
+        <module>03-relational-data-jdbc</module>
     </modules>
     <packaging>pom</packaging>
 
